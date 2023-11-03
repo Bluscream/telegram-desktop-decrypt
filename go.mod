@@ -5,7 +5,7 @@ go 1.21.3
 require (
 	github.com/karlmcguire/ige v0.0.0-20180620203807-493ac28b459a
 	github.com/lunixbochs/struc v0.0.0-20180408203800-02e4c2afbb2a
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v0.0.7
 	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
 )
